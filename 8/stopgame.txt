@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<meta charset="utf-8">
+<title>Игровые новости, страница 2</title>
+<meta name="description" content="Новости - игровые новости, сайт игровых новостей, самые свежие и последние игровые новости, страница 2">
+<meta name="keywords" content=" игровые новости, xbox, pc, games, news, игры, новинки, wii, ps2, psp, ps3, ps4, ps5, nintendo switch, xbox one, скачать бесплатно, страница 2">
+<meta property="og:site_name" content="StopGame">
+<meta property="og:url" content="https://stopgame.ru/news/all/p2">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@stopgameru">
+<meta name="theme-color" content="#313131">
+<meta name="msapplication-navbutton-color" content="#313131">
+<meta name="apple-mobile-web-app-status-bar-style" content="#313131">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i|Rubik:300,400,500,700&subset=cyrillic&display=swap">
+<link rel="stylesheet" type="text/css" href="/css.php?152">
+<script src="https://stopgame.ru/js/jquery-3.5.1.min.js?80"></script>
+<script src="https://stopgame.ru/js/jquery-ui.min.js?80"></script>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+</head>
+<body class="section-frontpage ">
+<script type="text/javascript">new Image().src = "//counter.yadro.ru/hit?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,150))+";"+Math.random();</script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-2245085-3"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-2245085-3');</script><script type="text/javascript"> (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(36906115, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, trackHash:true }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/36906115" style="position:absolute; left:-9999px;" alt="" /></div></noscript><header class="main">
+<div class="live-panel-header">
+<div class="live-panel__close-btn close-btn js-close-live"></div>
+</div>
+<div class="bar-content">
+<div class="left">
+<span class="menu-btn" data-menu="side-menu">
+<span class="icon icon-menu"></span>
+<span class="text">Меню</span>
+</span>
+<span class="logo-box logo-top-1"><a href="/" class="logo"></a></span>
+</div>
+<div class="center">
+<span class="logo-box logo-top-2"><a href="/" class="logo"></a></span>
+<nav class="main-menu">
+<div class="main-menu-items">
+<a href="/games" class="item"><span class="text">Игры</span></a><a href="/news" class="item item-selected"><span class="text">Новости</span></a><a href="/articles/new" class="item"><span class="text">Статьи</span></a><a href="/video/new" class="item"><span class="text">Видео</span></a><a href="/help/new" class="item"><span class="text">Читы</span></a><a href="/blogs" class="item"><span class="text">Блоги</span></a><a href="/stream/new" class="item"><span class="text">Стримы</span></a><a href="/faq" class="item"><span class="text">Помощь</span></a><a href="javascript:void(0);" class="item js-show-search"><span class="icon icon-search"><strong>Поиск</strong></span></a>
+</div>
+</nav>
+</div>
+<div class="right">
+<div class="account">
+<div class="action user"><span class="icon icon-user"></span><span class="text">Войти</span></div>
+<div class="dropdown">
+<div class="user"><span class="icon icon-user"></span><span class="text">Аккаунт</span></div>
+<div class="items">
+<div class="item"><a href="/users/login">Войти</a></div>
+<div class="item"><a href="/users/register">Регистрация</a></div>
+</div>
+</div>
+</div>
+<div class="live js-show-live" id="live-indicator">
+<div class="action">
+<span class="dot"></span><span class="text">Live</span>
+</div>
+</div>
+</div>
+</div>
+</header>
+<nav id="side-menu" class="side-menu">
+<div class="page-content">
+<div class="main-menu-items">
+<a href="/games" class="item"><span class="text">Игры</span></a><a href="/news" class="item item-selected"><span class="text">Новости</span></a><a href="/articles/new" class="item"><span class="text">Статьи</span></a><a href="/video/new" class="item"><span class="text">Видео</span></a><a href="/help/new" class="item"><span class="text">Читы</span></a><a href="/blogs" class="item"><span class="text">Блоги</span></a><a href="/stream/new" class="item"><span class="text">Стримы</span></a><a href="/faq" class="item"><span class="text">Помощь</span></a>
+<a href="javascript:void(0);" class="item js-show-search">
+<span class="item-content">
+<span class="icon icon-search"></span>
+<span class="text">Поиск</span>
+</span>
+</a>
+</div>
+</div>
+</nav>
+<div class="live-panel">
+<div class="live-panel-content">
+<div class="live-panel-title">Новые комментарии</div>
+<div class="live-list">
+<div class="items active" id="live-wrapper">
+</div>
+</div>
+</div>
+</div>
+<div class="search-panel search-panel-results">
+<div class="search-panel-content">
+<div class="close-btn js-close-search"></div>
+<form name="search-global" id="search-global" method="get" action="/search/">
+<div class="search-bar">
+<div class="search-input-control">
+<input class="form-control" type="text" name="s" id="search-what" placeholder="Что хотите найти?" autocomplete="off">
+<button class="search-btn" type="submit"></button>
+</div>
+<div class="checkbox-list">
+<div class="items">
+<div class="checkbox">
+<input id="where-games" type="radio" name="where" value="games" checked="checked">
+<label for="where-games">Игры</label>
+</div>
+<div class="checkbox">
+<input id="where-news" type="radio" name="where" value="news">
+<label for="where-news">Новости</label>
+</div>
+<div class="checkbox">
+<input id="where-articles" type="radio" name="where" value="articles">
+<label for="where-articles">Статьи</label>
+</div>
+<div class="checkbox">
+<input id="where-video" type="radio" name="where" value="video">
+<label for="where-video">Видео</label>
+</div>
+<div class="checkbox">
+<input id="where-cheats" type="radio" name="where" value="cheats">
+<label for="where-cheats">Читы</label>
+</div>
+<div class="checkbox">
+<input id="where-blogs" type="radio" name="where" value="blogs">
+<label for="where-blogs">Блоги</label>
+</div>
+<div class="checkbox">
+<input id="where-faq" type="radio" name="where" value="faq">
+<label for="where-faq">Помощь</label>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class="search-results" id="search-results">
+</div>
+</div>
+</div>
+<div class="page-layout">
+<div class="page-content">
+<div class="sidebar-layout"><aside class="sidebar">
+<div class="subnav collapsible collapsible-phone-tablet collapsible-collapsed sticky-block is_stuck">
+<div class="section-heading">Новости<span class="chevron collapsible-trigger"></span></div>
+<div class="subnav-items collapsible-content">
+<div class="item item-selected"><a href="/news"><span class="text">Все</span></a></div><div class="item"><a href="/news/pc"><span class="text">PC</span></a></div><div class="item"><a href="/news/xone"><span class="text">Xbox One</span></a></div><div class="item"><a href="/news/xboxsx"><span class="text">Xbox Series X | S</span></a></div><div class="item"><a href="/news/ps4"><span class="text">PlayStation 4</span></a></div><div class="item"><a href="/news/ps5"><span class="text">PlayStation 5</span></a></div><div class="item"><a href="/news/stadia"><span class="text">Stadia</span></a></div><div class="item"><a href="/news/vr"><span class="text">VR</span></a></div><div class="item"><a href="/news/nintendo_switch"><span class="text">Nintendo Switch</span></a></div><div class="item"><a href="/news/mmo"><span class="text">ММО</span></a></div><div class="item"><a href="/news/mobile"><span class="text">Мобильные</span></a></div><div class="item"><a href="/news/social"><span class="text">Социальные</span></a></div><div class="item"><a href="/news/hard"><span class="text">Железо</span></a></div><div class="item"><a href="/news/industry"><span class="text">Индустрия</span></a></div><div class="item"><a href="/news/cybersport"><span class="text">Киберспорт</span></a></div><div class="item"><a href="/news/movies"><span class="text">Кино</span></a></div></div>
+</div>
+</aside>
+<div class="main-content"><section><div class="breadcrumb"><a href="/">Главная</a> / <a href="/news">Новости</a> / <a href="/news/all/p2">Страница 2</a></div></section><section class="article-header"><h1 class="article-title">Игровые новости<span> | страница 2</span></h1></section><section><div class="tiles tiles-details"><div class="items"><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44918"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/En8T6HOXN9a5YG1q-1A5lA/mpak49rx.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44918">Французские защитники прав потребителей подают в суд на Nintendo за «дрейф» в Joy-Con</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44918#comments" class="comments-link">19</a></span></div><div class="tags"><a href="/news/industry">индустрия</a>, <a href="/news/nintendo_switch">nintendo switch</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44917"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/ZZmDhcbNJuBxtPCamZRYCQ/jzSzIIJS.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44917">Бывший глава Blizzard Майк Морхейм и его коллеги основали новую игровую компанию</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44917#comments" class="comments-link">27</a></span></div><div class="tags"><a href="/news/industry">индустрия</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44916"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/ODED4DKi5Lqv8i_526_TXg/a6PuuqGBR.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44916">Продажи Xbox One X резко выросли в несколько раз — вероятно, её путают с Xbox Series X</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44916#comments" class="comments-link">36</a></span></div><div class="tags"><a href="/news/xboxsx">xbox series x | s</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44915"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/Bk3kUHmihlcMFxUsoOFseg/GA2jTT7Yz.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44915">Microsoft не закончила покупать студии</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44915#comments" class="comments-link">80</a></span></div><div class="tags"><a href="/news/industry">индустрия</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44914"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/UlqFGpHe1Q53dhFekYN0-g/jkfCvi7.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44914">Похоже, первые Metal Gear собираются перевыпустить на PC</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44914#comments" class="comments-link">49</a></span></div><div class="tags"><a href="/news/pc">pc</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44913"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/HlwnQZKLmPhD23o5K3_BeA/UDSWLngO.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44913">Сделка Microsoft c ZeniMax Media не повлияет на поддержку The Elder Scrolls Online</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44913#comments" class="comments-link">12</a></span></div><div class="tags"><a href="/news/mmo">ммо</a>, <a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/stadia">stadia</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44912"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/8Gw4ATfVTfbIW1gB7XxzeA/Y7UIl0l.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44912">Физический «рогалик» Noita выйдет из раннего доступа 15 октября</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44912#comments" class="comments-link">7</a></span></div><div class="tags"><a href="/news/pc">pc</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44911"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/23/c480x270/qhn6-i8Veh7L04aqZ4g8ZA/ksc_bXZJ.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44911">Оригинальная Bright Memory может войти в стартовую линейку Xbox Series</a></div><div class="info"><span class="info-item timestamp">Вчера</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44911#comments" class="comments-link">1</a></span></div><div class="tags"><a href="/news/xboxsx">xbox series x | s</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44910"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/lYCYr4maGG6ZQy0k5GSyNQ/oqHChmUWS.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44910">Кроссовер Rocket League с Fortnite стартует 27 сентября</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span></div><div class="tags"><a href="/news/nintendo_switch">nintendo switch</a>, <a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><a name="more"></a><div class="article-image"><div class="image-16x9"><a href="/newsdata/44909"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/o0rQ4p3YyKvHB_wNq8kRiQ/U9uDNz62.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44909">Переиздания Doom и Doom II официально получили модификацию REKKR, навеянную скандинавскими мифами</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44909#comments" class="comments-link">6</a></span></div><div class="tags"><a href="/news/nintendo_switch">nintendo switch</a>, <a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44908"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/C-wtEmd52gCtZA6ptJv-VA/aG-u46JS.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44908">Halo 3: ODST уже доступна на PC. Релизное видео прилагается</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44908#comments" class="comments-link">4</a></span></div><div class="tags"><a href="/news/pc">pc</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44907"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/p3sW7Se4c8hOeqpPvSaHmg/vRk4DZi.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44907">Naughty Dog переименовала День вспышки в День The Last of Us из-за COVID-19</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44907#comments" class="comments-link">26</a></span></div><div class="tags"><a href="/news/ps3">playstation 3</a>, <a href="/news/ps4">playstation 4</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44906"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/i-1X6JE90QSoPzvdB3UWlg/7CBx6S1U.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44906">Шестой сезон Modern Warfare и Warzone начнётся 29 сентября. Смотрите кинематографичный ролик</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44906#comments" class="comments-link">28</a></span></div><div class="tags"><a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44905"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/2NiJKxumQ7yzGPfrexhzKQ/S5SFtq3g4.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44905">The Solitaire Conspiracy — шпионский пасьянс-солитер от создателя Thomas Was Alone и John Wick Hex</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44905#comments" class="comments-link">1</a></span></div><div class="tags"><a href="/news/pc">pc</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44904"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/368rqWEYIRUSwqm2VqheHw/hsdlQl9.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44904">«Европа полна тайн» — свежий трейлер «Destiny 2: За гранью Света»</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44904#comments" class="comments-link">1</a></span></div><div class="tags"><a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/ps5">playstation 5</a>, <a href="/news/stadia">stadia</a>, <a href="/news/xboxsx">xbox series x | s</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44903"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/TKxtCfHaJp7Bt5lzuBOppg/WA-cfqY6c.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44903">«Выживач» Drake Hollow от создателей The Flame in the Flood появится на PC уже 1 октября</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44903#comments" class="comments-link">4</a></span></div><div class="tags"><a href="/news/pc">pc</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44902"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/-aW-oziK-qDmbWcXLXCwSQ/9HSgkJyYq.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44902">Хоррор Remothered: Broken Porcelain выйдет 13 октября — на неделю раньше запланированного</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span></div><div class="tags"><a href="/news/nintendo_switch">nintendo switch</a>, <a href="/news/pc">pc</a>, <a href="/news/ps4">playstation 4</a>, <a href="/news/xone">xbox one</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44901"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/hW8lOw3A85KVvYKhjXxYeA/D8pu28s.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44901">Arkane уже работает над следующей AAA-игрой (может быть, даже не одной)</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44901#comments" class="comments-link">22</a></span></div><div class="tags"><a href="/news/industry">индустрия</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44900"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/H3nI9LaAp-PqYcxjV3WSKg/ENTzhr3W.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44900">Сохранения из Spider-Man для PS4 не получится перенести в ремастер на PS5</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44900#comments" class="comments-link">40</a></span></div><div class="tags"><a href="/news/ps4">playstation 4</a>, <a href="/news/ps5">playstation 5</a></div></div></div><div class="item article-summary"><div class="article-image"><div class="image-16x9"><a href="/newsdata/44899"><div class="image lazy" data-src="https://images.stopgame.ru/news/2020/09/22/c480x270/mfMR5qdpnKCxMEu-N8q2GQ/QZBCZLY-4.jpg"></div></a></div></div><div class="article-description"><div class="caption caption-bold"><a href="/newsdata/44899">Число подписчиков Xbox Game Pass выросло на 50 % за последние пять месяцев</a></div><div class="info"><span class="info-item timestamp">22 сентября 2020г.</span><span class="info-item comments"><span class="icon icon-comments"></span> <a href="/newsdata/44899#comments" class="comments-link">24</a></span></div><div class="tags"><a href="/news/industry">индустрия</a>, <a href="/news/pc">pc</a>, <a href="/news/xboxsx">xbox series x | s</a>, <a href="/news/xone">xbox one</a></div></div></div></div></div></section><section><div class="pagination-load-more"><div class="pull-right"><div class="pagination"><div class="row"><span class="pages"><a href="/news/all/p1" class="prev"><span class="icon icon-left "></span></a><a class="item" href="/news/all/p1"><span>1</span></a><a class="item item-selected" href="/news/all/p2"><span>2</span></a><a class="item" href="/news/all/p3"><span>3</span></a><a class="item" href="/news/all/p4"><span>4</span></a><a class="item" href="/news/all/p5"><span>5</span></a><a class="item" href="/news/all/p6"><span>6</span></a><a class="item" href="/news/all/p7"><span>7</span></a><a class="item" href="/news/all/p8"><span>8</span></a><a class="item" href="/news/all/p9"><span>9</span></a><a class="item" href="/news/all/p10"><span>10</span></a><a class="item" href="/news/all/p11"><span>11</span></a><span class="text">...</span><a class="item" href="/news/all/p2183"><span>2183</span></a><a class="item" href="/news/all/p2184"><span>2184</span></a><a href="/news/all/p3" class="next"><span class="icon icon-right"></span></a></span></div></div></div></div></section></div></div></div>
+</div>
+<footer class="main">
+<div class="page-content">
+<section class="footer-links footer-links-collapsed">
+<div class="columns">
+<div class="column">
+<div class="caption">Новости</div>
+<div class="items">
+<div class="item"><a href="/news">Все</a></div>
+<div class="item"><a href="/news/pc">PC</a></div>
+<div class="item"><a href="/news/xone">Xbox One</a></div>
+<div class="item"><a href="/news/xboxsx">Xbox Series X | S</a></div>
+<div class="item"><a href="/news/ps4">PlayStation 4</a></div>
+<div class="item"><a href="/news/ps5">PlayStation 5</a></div>
+<div class="item"><a href="/news/stadia">Stadia</a></div>
+<div class="item"><a href="/news/vr">VR</a></div>
+<div class="item"><a href="/news/nintendo_switch">Nintendo Switch</a></div>
+<div class="item"><a href="/news/mmo">ММО</a></div>
+<div class="item"><a href="/news/mobile">Мобильные</a></div>
+<div class="item"><a href="/news/social">Социальные</a></div>
+<div class="item"><a href="/news/hard">Железо</a></div>
+<div class="item"><a href="/news/industry">Индустрия</a></div>
+<div class="item"><a href="/news/cybersport">Киберспорт</a></div>
+<div class="item"><a href="/news/movies">Кино</a></div>
+</div>
+</div>
+<div class="column">
+<div class="caption">Статьи</div>
+<div class="items">
+<div class="item"><a href="/articles/new">Все</a></div>
+<div class="item"><a href="/review/new">Обзоры</a></div>
+<div class="item"><a href="/preview/new">Превью</a></div>
+<div class="item"><a href="/frontpage/new">Первая полоса</a></div>
+<div class="item"><a href="/interview/new">Интервью</a></div>
+</div>
+</div>
+<div class="column">
+<div class="caption">Видео</div>
+<div class="items">
+<div class="item"><a href="/video/new">Все</a></div>
+<div class="item"><a href="/infact/new">Инфакт</a></div>
+<div class="item"><a href="/vreview/new">Обзоры</a></div>
+<div class="item"><a href="/vpreview/new">Превью</a></div>
+<div class="item"><a href="/speedrun/new">Спидран в деталях</a></div>
+<div class="item"><a href="/games_history/new">История серии</a></div>
+<div class="item"><a href="/trailers/new">Трейлеры</a></div>
+<div class="item"><a href="/igrozor/new">Игрозор</a></div>
+<div class="item"><a href="/appzor/new">Мобильный дайджест</a></div>
+<div class="item"><a href="/vreports/new">Репортажи</a></div>
+<div class="item"><a href="/razbor/new">Разбор полетов</a></div>
+<div class="item"><a href="/wes_and_flynn/new">Уэс и Флинн</a></div>
+<div class="item"><a href="/fear/new">Страшно, Вырубай!</a></div>
+<div class="item"><a href="/refund/new">Рефанд?!</a></div>
+<div class="item"><a href="/machinima/new">Машинима</a></div>
+<div class="item"><a href="/gamemovie/new">Игровое кино</a></div>
+<div class="item"><a href="/trudnosti/new">Трудности перевода</a></div>
+<div class="item"><a href="/podcast/new">Подкаст</a></div>
+<div class="item"><a href="/sgtv/new">Другое</a></div>
+</div>
+</div>
+<div class="column">
+<div class="caption">Читы</div>
+<div class="items">
+<div class="item"><a href="/help/new">Все</a></div>
+<div class="item"><a href="/cheats/new">Коды</a></div>
+<div class="item"><a href="/solutions/new">Прохождения</a></div>
+<div class="item"><a href="/tactics/new">Советы и тактика</a></div>
+<div class="item"><a href="/trainers/new">Трейнеры</a></div>
+</div>
+</div>
+<div class="column">
+<div class="caption">Блоги</div>
+<div class="items">
+<div class="item"><a href="/blogs">Новое</a></div>
+<div class="item"><a href="/blogs/weeks">Темы недели</a></div>
+<div class="item"><a href="/blogs/top">Топ</a></div>
+<div class="item"><a href="/blogs/add/topic">Создать тему</a></div>
+</div>
+</div>
+</div>
+<div class="toggle-bar js-show-footer">
+<div class="toggle"></div>
+</div>
+<div class="toggle-btn "></div>
+</section>
+<section>
+<div class="social-links">
+<div class="items">
+<a href="/click/?https://vk.com/stopgameru" class="btn btn-filled btn-social-vk" target="_blank"><span class="icon icon-social-vk"></span></a>
+<a href="/click/?https://facebook.com/stopgameteam" class="btn btn-filled btn-social-facebook" target="_blank"><span class="icon icon-social-facebook"></span></a>
+<a href="/click/?https://www.youtube.com/user/stopgameru" class="btn btn-filled btn-social-youtube" target="_blank"><span class="icon icon-social-youtube"></span></a>
+<a href="/click/?https://twitter.com/stopgameru" class="btn btn-filled btn-social-twitter" target="_blank"><span class="icon icon-social-twitter"></span></a>
+<a href="/click/?https://telegram.me/stopgameru" class="btn btn-filled btn-social-telegram" target="_blank"><span class="icon icon-social-telegram"></span></a>
+<a href="/click/?https://www.instagram.com/stopgameru/" class="btn btn-filled btn-social-instagram" target="_blank"><span class="icon icon-social-instagram"></span></a>
+<a href="/click/?https://steamcommunity.com/groups/stopgamecommunity" class="btn btn-filled btn-social-steam phone-hidden" target="_blank"><span class="icon icon-social-steam"></span></a>
+<a href="/click/?https://www.twitch.tv/stopgameru/" class="btn btn-filled btn-social-twitch phone-hidden" target="_blank"><span class="icon icon-social-twitch"></span></a>
+</div>
+</div>
+</section>
+<section>
+<div class="extra-links">
+<a href="/about">О проекте</a>
+<span class="sep">|</span>
+<a href="/adver">Реклама на сайте</a>
+<span class="sep">|</span>
+<a href="/contact">Контакты</a>
+</div>
+<div class="r18"><span class="r18-icon"></span></div>
+<div class="legal-info">
+<p>&copy; 1999-2020 StopGame.ru</p>
+<p>Использование любых материалов сайта без согласования с администрацией запрещено.</p>
+<p class="developed-by"><a href="/click/?https://proxima.agency/">Дизайн сайта - <strong>Proxima.agency</strong></a></p>
+</div>
+</section>
+</div>
+</footer>
+<div id="adfox_15868741198728650"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 202735,
+        containerId: 'adfox_15868741198728650',
+        params: {
+            pp: 'g',
+            ps: 'bfcj',
+            p2: 'epdu'
+        }
+    });
+</script><script src="https://stopgame.ru/js.php?80"></script>
+<div id="adfox_150582878559636876"></div>
+<script>
+    window.Ya.adfoxCode.create({
+        ownerId: 202735,
+        containerId: 'adfox_150582878559636876',
+        params: {
+            pp: 'g',
+            ps: 'bfcj',
+            p2: 'epcf'
+        }
+    });
+</script><div class="inTop"><div></div></div>
+</body>
+</html>
